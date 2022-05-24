@@ -1,8 +1,8 @@
 > 在简悦标注，自动生成符合 Logseq 的标注文件，然后发布到 Github Page 的无代码化全自动方案。
 
-- # 感谢
-	- [@tiensonqin](https://twitter.com/tiensonqin) 提供了这么棒的双链笔记 Logseq，得益于 [@pengx17](https://twitter.com/pengx17) 发布的 [Logseq Publish GitHub Action](https://pengx17.github.io/knowledge-garden/#/page/logseq publish github action)，可以非常方便的使用 Logseq 编写，使用 Git 发布它。
-- # 流程
+- 感谢
+	- @tiensonqin](https://twitter.com/tiensonqin) 提供了这么棒的双链笔记 Logseq，得益于 [@pengx17](https://twitter.com/pengx17) 发布的 [Logseq Publish GitHub Action](https://pengx17.github.io/knowledge-garden/#/page/logseq publish github action)，可以非常方便的使用 Logseq 编写，使用 Git 发布它。
+- #流程
   	> 整个工作流包含两种方案
 	- 当你在 Logseq 页面的任何改动都会自动发布到你的 Github Page 上面， 你看到的 [这篇教程](https://kenshin.wang/knowledge-garden/) 就是此方式发布的。
 	  id:: 61fdfac4-f85b-4d3a-a8eb-2f094ceb90ca
