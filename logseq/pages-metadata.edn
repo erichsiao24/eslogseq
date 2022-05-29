@@ -1,6 +1,6 @@
 [{:block/name "20220525",
   :block/created-at 1653402574448,
-  :block/updated-at 1653402574448}
+  :block/updated-at 1653669560845}
  {:block/name "60d34662-6747-46cd-a790-6dcb691b0256",
   :block/created-at 1643955922696,
   :block/updated-at 1643955922696}
@@ -16,18 +16,12 @@
  {:block/name "c",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
- {:block/name "card",
-  :block/created-at 1653402581513,
-  :block/updated-at 1653402581513}
  {:block/name "doing",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
  {:block/name "done",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
- {:block/name "favorites",
-  :block/created-at 1653402581513,
-  :block/updated-at 1653402581513}
  {:block/name "in-progress",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
